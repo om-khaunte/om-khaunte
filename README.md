@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Om, and I'm on the Tech Team that organizes Los Altos Hacks. I also make personal passion projects every now and then. Check out my profile below!</h2>
+<h2 align="left">hey!</h2>
 
 ###
 
